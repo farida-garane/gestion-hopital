@@ -1,6 +1,8 @@
 # 🏥 GestionHôpital — Projet PostgreSQL
 
-Projet de base de données réalisé pour apprendre et maîtriser PostgreSQL .
+Système de gestion de base de données pour un hôpital avec patients, 
+médecins, consultations, hospitalisations et médicaments.
+
 ---
 
 ## 📁 Structure du projet
